@@ -1,5 +1,16 @@
 # Face-Recognition-In-Swift
-Face recognition / detection with Apple Vision API in Swift 4 for iOS 11
+
+## Face Detection and Recognition
+This code example shows you, how you can detect faces on any images by using the API of the Vision Framework. For more information about Vision see https://developer.apple.com/documentation/vision
+
+The detection works with single and multiple faces in the image.
+
+## Prerequisite
+- Xcode 9
+- Swift 4
+- iOS 11
+
+## Examples
 
 ![multiple faces](http://i.imgur.com/pT7Kskd.png)
 
